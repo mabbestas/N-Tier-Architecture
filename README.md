@@ -10,6 +10,8 @@ Not only does your software gain from being able to get services at the best pos
 
 The n-tier architecture is an industry-proven software architecture model. It is suitable to support enterprise level client-server applications by providing solutions to scalability, security, fault tolerance, reusability, and maintainability. It helps developers to create flexible and reusable applications.
 
+## Types of N-Tier Architectures
+
 ### 3-Tier Architecture
 
 ![3](https://user-images.githubusercontent.com/103368662/212729207-15be9bd5-705e-4772-ad0a-49e088150750.png)
